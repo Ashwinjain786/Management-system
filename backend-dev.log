@@ -1,0 +1,13 @@
+
+> idurar-erp-crm@4.1.0 dev
+> nodemon src/server.js --ignore public/
+
+[33m[nodemon] 3.0.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,cjs,json[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
+[32m[nodemon] restarting due to changes...[39m
+[32m[nodemon] starting `node src/server.js`[39m
+Express running → On PORT : 8888
